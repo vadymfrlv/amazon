@@ -7,6 +7,7 @@ export default defineConfig({
   resolve: {
     alias: {
       components: '/src/components',
+      contexts: '/src/contexts',
       mock: '/src/mock',
       styles: '/src/styles',
       types: '/src/types',
