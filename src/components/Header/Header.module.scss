@@ -1,0 +1,25 @@
+.header {
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50px;
+
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #0840d4;
+}
+
+.appNameLink {
+  text-decoration: none;
+  color: currentColor;
+  cursor: pointer;
+}
+
+.appName {
+  font-weight: 900;
+  font-size: 25px;
+  text-transform: uppercase;
+
+  color: #ff9900;
+}
